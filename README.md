@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## **Reclaiming peace of mind and avoiding prying eyes**
 
-You can use the [editor on GitHub](https://github.com/brandon-jimenez/Level-Up-Your-Privacy/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#### <ins>Information on privacy and secure tools</ins> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[PrivacyTools.io](https://privacytools.io/)
 
-### Markdown
+PrivacyTools.io is a great site that provides information on tools and software that has been vetted to provide the most privacy when handling your data.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I find it's worthy knowledge understand the current state of surviellence. This provides excellent information on this topic. 
 
-```markdown
-Syntax highlighted code block
+Global Mass Surveillance - The Fourteen Eyes
+UKUSA Agreement
+The UKUSA Agreement is an agreement between the United Kingdom, United States, Australia, Canada, and New Zealand to cooperatively collect, analyze, and share intelligence. Members of this group, known as the Five Eyes, focus on gathering and analyzing intelligence from different parts of the world. While Five Eyes countries have agreed to not spy on each other as adversaries, leaks by Snowden have revealed that some Five Eyes members monitor each other's citizens and share intelligence to avoid breaking domestic laws that prohibit them from spying on their own citizens. The Five Eyes alliance also cooperates with groups of third-party countries to share intelligence (forming the Nine Eyes and Fourteen Eyes); however, Five Eyes and third-party countries can and do spy on each other.
 
-# Header 1
-## Header 2
-### Header 3
+### <ins>VPN</ins> 
 
-- Bulleted
-- List
+A quality VPN is worth the money.
 
-1. Numbered
-2. List
+My current favorite it [ProtonVPN](https://protonvpn.com/)
+	They offer a free tier and they're based a Switzerland -- a non-Fourteen Eyes country. 
+ 
+[Further reading](https://inteltechniques.com/vpn.html)
 
-**Bold** and _Italic_ and `Code` text
+#### <ins>Secure Messaging</ins>
 
-[Link](url) and ![Image](src)
-```
+For secure messaging Signal is great BUT what happens when it goes down like it did recently? It's important to have a equally secure backup. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*Also, it's worth noting that since Signal requires you phone number to sign up, it's not completely fool proof. Your Signal is still tied to you identity. Of course this can be remedied by using something like a Google Voice number which has been created just for Signal. But I understand not everyone wants to go through that trouble.
+Also since it's centralized, it's subject to legislation, just like any other company.*
+•
+A good alternative to Signal is [Session](https://getsession.org/).
 
-### Jekyll Themes
+No phone number needed.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brandon-jimenez/Level-Up-Your-Privacy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### <ins>Purging your data from the internet</ins>
 
-### Support or Contact
+[Personal Data Removal Workbook & Credit Freeze Guide](https://inteltechniques.com/data/workbook.pdf)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A Info Sec/OSINT specialist, Michael Bazzel is a wealth if knowledge on privacy and minimzing your publicly a abailable data.
+
+Fantastic workbook for parsing through your online data and guidance on how to minimize and remove that data from prying eyes AND what sites/sources to remove it from.
+
+
+#### <ins>Cool Apps</ins>
+
+[turtl](https://turtlapp.com/features/)
+
+#### <ins>Social Networking</ins>
+ 
+[Mastodon](https://joinmastodon.org/)
+Self hosting your own Social Media platform
+
+You control the moderation and level of free speech. It stays up as long as you want. 
+- could be hostable in a AWS instance and a way of encrypted connection could probably be established
+
+#### <ins>Secure event management</ins>
+
+[RSVPify](https://rsvpify.com/event-registration/)
+
+Free up to the first 100 people. $29+ for premium for events with larger guest lists and premium features. Has a wealth of feature included.
+
