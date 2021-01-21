@@ -9,7 +9,7 @@ PrivacyTools.io is a great site that provides information on tools and software 
 I find it's worthy knowledge understand the current state of surviellence. This provides excellent information on this topic. 
 
 Global Mass Surveillance - The Fourteen Eyes\
-UKUSA Agreement\
+*UKUSA Agreement*\
 The UKUSA Agreement is an agreement between the United Kingdom, United States, Australia, Canada, and New Zealand to cooperatively collect, analyze, and share intelligence. Members of this group, known as the Five Eyes, focus on gathering and analyzing intelligence from different parts of the world. While Five Eyes countries have agreed to not spy on each other as adversaries, leaks by Snowden have revealed that some Five Eyes members monitor each other's citizens and share intelligence to avoid breaking domestic laws that prohibit them from spying on their own citizens.\
 The Five Eyes alliance also cooperates with groups of third-party countries to share intelligence (forming the Nine Eyes and Fourteen Eyes); however, Five Eyes and third-party countries can and do spy on each other.
 
