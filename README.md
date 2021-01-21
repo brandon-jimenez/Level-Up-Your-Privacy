@@ -59,3 +59,4 @@ You control the moderation and level of free speech. It stays up as long as you 
 
 Free up to the first 100 people. $29+ for premium for events with larger guest lists and premium features. Has a wealth of feature included.
 
+
